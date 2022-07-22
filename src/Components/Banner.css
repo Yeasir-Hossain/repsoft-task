@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.body-font{
+    font-family: 'Poppins';
+}
+
+.evolve {
+    line-height: 96px;
+    text-shadow: 8px 8px 2px rgba(0, 0, 0, 0.59);
+}
+
+.play {
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.83);
+}

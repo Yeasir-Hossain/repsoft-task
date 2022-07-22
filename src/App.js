@@ -1,11 +1,11 @@
-import Navbar from "./Components/Navbar";
+import Banner from "./Components/Banner";
+
 
 
 function App() {
   return (
     <div>
-      <Navbar></Navbar>
-      
+      <Banner></Banner>
     </div>
   );
 }
